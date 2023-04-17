@@ -1,0 +1,28 @@
+
+@import url("./global.css");
+
+
+/* Header */
+.header {
+    position: relative;
+    margin-top: 50px;
+    padding: 100px 0 300px;
+    background: linear-gradient(-45deg, #56125b, #0f0f10, #271e6e);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite alternate;
+  }
+  .text_center{
+    text-align: center;
+  }
+  /* fundo botão accordion */
+.accordion-button{
+    background: linear-gradient(-45deg, #56125b, #0f0f10, #271e6e);
+    color: aliceblue;
+}
+/* fundo do accordion */
+.accordion-body{
+  background: linear-gradient(-45deg, #56125b, #0f0f10, #271e6e);
+  color: aliceblue;
+
+}
+
