@@ -1,12 +1,17 @@
 <p align="center">
-    <img width="700" src="https://user-images.githubusercontent.com/102911341/230969917-58a11034-a473-4b8b-a0db-620cd5a7c87c.png">
+    <img width="700" src="https://user-images.githubusercontent.com/102911341/232473973-f7b12bb4-6ac4-4bb8-9cbf-d3c898e0c4a4.png">
 </p>
+<br>
 
 <p align="center">
-   <video width="640" height="360" controls>
+    <img width="700" src="https://user-images.githubusercontent.com/102911341/232474031-fb8adb80-a717-462e-9614-8ed2ced7af87.png">
+</p>
+
+
+   <video width="640" height="360" controls align="center">
      <source src="assets/images/hbomax2 (online-video-cutter.com).mp4" type="video/mp4">
    </video>
-</p>
+
 
 <p align="center">Seja redirecionado à página do meu 
 <a href="# " target="_blank">projeto</a></p>
