@@ -56,7 +56,6 @@ Clonando o site do HBO Max
   - Tratamento de campos inválidos no formulário
 
 
-Em resumo, o Bootstrap pode ajudar a acelerar o processo de desenvolvimento, fornecer uma aparência profissional e consistente para o seu site, e torná-lo acessível em diferentes dispositivos.
 
 As fontes utilizadas no projeto foram:
 
