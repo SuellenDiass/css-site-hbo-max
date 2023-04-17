@@ -14,7 +14,7 @@
 
 
 <p align="center">Seja redirecionado à página do meu 
-<a href="# " target="_blank">projeto</a></p>
+<a href="https://suellendiass.github.io/css-site-hbo-max/index.html " target="_blank">projeto</a></p>
 
 <p align="center">Seja redirecionado à página do 
 <a href="https://micheleambrosio.github.io/hbomax/ " target="_blank">projeto da instrutora Michele Ambrosio</a></p>
@@ -29,11 +29,11 @@ Clonando o site do HBO Max
 
 :heavy_check_mark: `Assuntos abordados:`
 
-- [x] O projeto possui como intuito aplicar os conceitos abordados na Trilha de CSS da DIO, ministrada pela instrutora Michele Ambrosio.
+- [x] O projeto possui  os conceitos abordados na Trilha de CSS da DIO, ministrada pela instrutora Michele Ambrosio.
 
 - [x] O projeto é um clone do site <a href="https://www.hbomax.com/br/pt">HBO Max</a>, com o intuito de reproduzir a interface, com algumas modificações, aplicando os temas abordados ao longo das aulas de CSS da plataforma da <a href="https://dio.me">Digital Innovation One</a>.
 
-- [x] O intuito do projeto é reproduzir a interface do site original, com algumas modificações. Os assuntos abordados Foram:
+- [x] O objetivo do projeto é reproduzir a interface do site original, com algumas modificações. Os assuntos abordados Foram:
 
   - Menu de navegação
   - Cabeçalho com animação gradiente
@@ -55,7 +55,6 @@ Clonando o site do HBO Max
   - Transições e animações
   - Tratamento de campos inválidos no formulário
 
-- [x]
 
 Em resumo, o Bootstrap pode ajudar a acelerar o processo de desenvolvimento, fornecer uma aparência profissional e consistente para o seu site, e torná-lo acessível em diferentes dispositivos.
 
